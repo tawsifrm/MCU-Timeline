@@ -1,2 +1,3 @@
 # MCU-Timeline
-A website to view upcoming Marvel Cinematic Universe films and series.
+A responsive website to view upcoming Marvel Cinematic Universe films and series.
+Built in pure javascript, html & css.
